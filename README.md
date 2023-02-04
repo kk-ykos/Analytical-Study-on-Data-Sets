@@ -7,6 +7,8 @@ Thank you!
 
 https://sites.google.com/view/kirway/home?authuser=0
 
+Sample Example from the study:
+
 
 ![image](https://user-images.githubusercontent.com/68120874/216741368-db3b9117-4f62-4884-8120-9836f562c353.png)
 
